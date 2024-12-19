@@ -25,7 +25,7 @@ subtitle: ".... or how has the volume of educational content changed over time"
 
 ## **Visual Insights**
 ### **Centered Image**
-![Sales Trends Chart](assets/banner.jpeg)
+![Sales Trends Chart](assets/images/banner.jpeg)
 > *Figure 1: Sales trends across quarters.*
 
 ---
@@ -33,7 +33,7 @@ subtitle: ".... or how has the volume of educational content changed over time"
 ### **Image with Text Alignment**
 #### Image to the Left
 <div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
-    <img src="assets/profile.jpeg" alt="Urban Market Performance" width="40%" style="margin-right: 1rem;">
+    <img src="assets/images/profile.jpeg" alt="Urban Market Performance" width="40%" style="margin-right: 1rem;">
     <p>
         **Observation:** *Product A demonstrated remarkable performance in urban markets during the campaign. This suggests a need to further target similar demographics for sustained growth.*
     </p>
@@ -46,7 +46,7 @@ subtitle: ".... or how has the volume of educational content changed over time"
     <p style="margin-right: 1rem;">
         **Insight:** *Website traffic surged after the new campaign launch, highlighting strong audience engagement. Future campaigns can capitalize on this trend to drive conversions.*
     </p>
-    <img src="assets/profile.jpeg" alt="Website Traffic Growth" width="40%">
+    <img src="assets/images/profile.jpeg" alt="Website Traffic Growth" width="40%">
 </div>
 
 ---
