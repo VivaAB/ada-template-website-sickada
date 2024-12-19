@@ -1,7 +1,7 @@
 # _config.yml
 
 # Site Settings
-title: ""
+title: "epfl.ada.ch"
 theme: jekyll-theme-cayman
 baseurl: "/sickada"
 
