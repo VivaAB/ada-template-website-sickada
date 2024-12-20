@@ -33,7 +33,7 @@ Let's do the same analysis for the edutainment-type videos
 <div>
   <iframe src="assets/plots/edutainment_videos_per_month_by_year.html" width="100%" height="500" frameborder="0"></iframe>
 </div>
-Performing the same tests as for the academic videos, we find that the only year with a different distribution than the original distribution is the year 2018 and the observed peak is in July. These tests allows us to say that there is very little if not seasonality for the edutainment-type videos.
+Performing the same tests as for the academic videos, we find that the only year with a different distribution than the original distribution is the year 2018 and the observed peak is in July. These tests allows us to say that there is very little if no seasonality for the edutainment-type videos.
 
 ## **What about the famous "Academic" channels**
 Analyzing the time series would give us more insight about the viewers's consumption habits. To do this, we can plot the delta views per weeks of a famous youtube channels posting mainly academic-type content. Let's look at Bozeman Science statistics for the year 2018.
@@ -43,4 +43,4 @@ Analyzing the time series would give us more insight about the viewers's consump
 
 We observe a noticeable drop in viewership during the summer months, followed by peaks just before and after the summer break. Interestingly, even though this channel didn't release any new videos in 2018, the viewership still followed this distinct pattern, suggesting that people actively seek out older videos during this time.
 
-While there is some evidence of seasonal trends in the upload and consumption of educational content, particularly around the school year for academic videos, the patterns are not consistent across all years or content types. Interestingly, the edutainment videos did not show strong evidence of seasonality suggesting that audiences consistently seek accessible and engaging information at all time !
+While there is some evidence of seasonal trends in the upload and consumption of educational content, particularly around the school year for academic videos, the patterns are not consistent across all years or content types. Remarkably, the edutainment videos did not show strong evidence of seasonality suggesting that audiences consistently seek accessible and engaging information at all time !
