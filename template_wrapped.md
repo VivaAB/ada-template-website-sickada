@@ -1,9 +1,11 @@
 ---
 layout: default
 title: "Sickada"
-banner_header: "How You Became Smarter ...."
-subtitle: ".... or how has the volume of educational content changed over time"
+banner_header: "YouTube Wrapped [EDU EDITION]..."
+subtitle: "... or are there spikes in educational content upload and consumption over the years?"
 ---
+
+Why do some topics ignite bursts of interest and fade away immediatly, while others foster sustained engagement and content creation? Does YouTube, through its educational content, serve as a reactive platform, mirroring societal buzz, or does it have the power to shape and sustain public discourse over time? From cryptocurrency booms to feminist movements, we aim to uncover patterns of attention, reaction, and even neglect. 
 
 ## **Introduction**
 > A brief introduction explaining the purpose of the analysis and the key questions being explored. Keep it simple, clear, and engaging.
