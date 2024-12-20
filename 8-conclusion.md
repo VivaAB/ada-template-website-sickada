@@ -12,6 +12,7 @@ You made it through all of the different axes ! This was a lot of information, s
 **What's your learning personality type ?**
 
 **Does size really matters ?**
+Regarding the video time, the topic being lectured impacts greatly the optimal duration. YouTube can deliver quick solutions to a problem you might have, while also offering in depth tutorials or explanations for the detail aficionados.
 
 **How you became smarter**
 We see a shift from academic videos to edutainment. Viewers seem to prefer content that is easier to understand, fun, and engaging.
