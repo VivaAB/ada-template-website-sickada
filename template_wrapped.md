@@ -12,8 +12,25 @@ Inspired by the iconics YouTube Rewind and Spotify Wrapped, our "YouTube Wrapped
 
 We analyzed YouTube's history of educational content by focusing on five major topics: machine learning, cryptocurrency, Ebola disease, jihadism, and the feminist movement, exploring the intersection of content creation and audience interest. Through simple keyword searches, we focus our attention on videos tied to these subjects. In each case, we compare the volume of videos (blue) to the YouTube search trends from Google Trends (red). Beyond these time-series comparisons, we analyze global trends and seasonal fluctuations in video production, as well as correlations between user interest and content creation.
 
-### **Case #1: Golden ratio WRAP**
-![ML](assets/images/ML.png)
+>*Please note that Google Trend updated their data collection system on 05/08/2017 which can induce some inconsistencies in YouTube search trends (red curves of "user interest").*
+
+
+### **Case #1: 'Golden Ratio' Wrap**
+![ML](assets/plots/ML.png)
+
+Our first case study is related to machine learning and artificial intelligence advances. Content creation (in blue) shows a study growth until 2016, after which it exponentially rise. Could it be related to AlphaGo, the first program that beat a human professional Go player? In any case, AI captured mainstream attention around that time, as depicted by the search trends (in red) that are highly correlated with the amount of videos posted at that time. Also, you may have noticed a steady trend in both content creation and user interest in 2019, but don't worry it will rise again a few years later with the arrival of ChatGPT...
+
+*Fun fact: the channel Udacity posted approximately 1000 videos in February 2015, all more or less related to datascience, machine learning, and excel101, explaining the lonely blue dot at that date.*
+
+### **Case #2: 'Fool's Gold' Wrap**
+![crypto](assets/plots/crypto.png)
+
+The second case study is related to cryptocurrencies. Content creation remained nearly flat until 2017, and skyrocketed in sync with the Crypto Bubble, comprising the 2017 boom and the 2018 crash. Interestingely, content creators showed remarkable persistence, steadily producing content (blue) despite the fading audience curiosity (red). Overall, the data paints a vivid picture of how cryptocurrency hype and dramatic market events drive a reactive surge in both user interest and content production on YouTube.
+
+### **Case #3: 'Forecast' Wrap**
+![ebola](assets/plots/ebola.png)
+
+This third case tackles the Ebola virus. Both content creation and searches exhibit a sharp spike during the 2014 outbreak, and decline steeply afterward. Please note that the seasonality effect observed in the bottom left plot is due to this sudden peak. If the population and government showed long-term engagement on the "pandemia" topic, we may have prevented all the 2020 drama (#covid).
 
 
 ---
