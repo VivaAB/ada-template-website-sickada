@@ -91,7 +91,7 @@
 
         .video-grid {
             display: grid;
-            grid-template-columns: repeat(4, 1fr); /* Always 4 columns */
+            grid-template-columns: repeat(5, 1fr); /* Always 4 columns */
             gap: 1.5rem; /* Space between video cards */
         }
 
@@ -105,7 +105,7 @@
         .thumbnail {
             position: relative;
             width: 100%;
-            padding-top: 56.25%; /* 16:9 aspect ratio */
+            padding-top: 100%; /* 16:9 aspect ratio */
             overflow: hidden;
             border-radius: 12px; /* Rounds the edges of thumbnails */
         }
@@ -117,7 +117,7 @@
             width: 100%;
             height: 100%;
             object-fit: cover;
-            border-radius: 12px; /* Ensures the image respects the rounded edges */
+            border-radius: 50%; /* Ensures the image respects the rounded edges */
         }
 
         .video-info {
@@ -199,32 +199,31 @@
         <div class="channel-details">
             <h1>SickADA</h1>
             <p>@SickADA-2024 · 841k followers · 209 videos</p>
-            <p>How Youtube became everyone's favourite teacher and why you should drop out...</p>
+            <p>Why you should drop out...</p>
         </div>
     </div>
 
     <!-- Navigation Tabs -->
     <nav>
-        <a href="#" class="active">Home</a>
+        <a href="#">Home</a>
         <a href="#">Videos</a>
         <a href="#">Shorts</a>
         <a href="#">Playlists</a>
-        <a href="team.html">Our team</a>
+        <a href="team.html" class="active">Our team</a>
     </nav>
 
     <!-- Video Section -->
     <section class="video-section">
-        <h2>For you / popular videos</h2>
+        <h2>Because we also have our own youtube channels</h2> 
         <div class="video-grid">
-
             <div class="video-card">
                 <a href="template_learning_personality">
                     <div class="thumbnail">
-                        <img src="assets/images/1-personality-shutterstock.jpg" alt="Thumbnail 1">
+                        <img src="assets/images/Gonçalo.jpg" alt="Gonçalo">
                     </div>
                     <div class="video-info">
-                        <h3>What’s your learning personality type?</h3>
-                        <p>209k views · 1 jour</p>
+                        <center><h3>Gonçalo - Ukulele </h3></center>
+                        <center><p>Multitask master and bard for any occasion 🎶 Went really hard on the classification and keyword 🔑 search 🔎 </p></center>
                     </div>
                 </a>
             </div>
@@ -232,11 +231,11 @@
             <div class="video-card">
                 <a href="template_time_waste">
                     <div class="thumbnail">
-                        <img src="assets/images/2-sablier-unsplash.jpg" alt="Thumbnail 2">
+                        <img src="assets/images/Florian.jpg" alt="Florian">
                     </div>
                     <div class="video-info">
-                        <h3>You will never guess what others waste their time on…</h3>
-                        <p>1.1M views · 1 months ago</p>
+                        <center><h3>Florian - Travel</h3></center>
+                        <center><p>In the train 🚆 while we are creating the website! Master or plots 📈, with very high standard. (This is his t picture)</p></center>
                     </div>
                 </a>
             </div>
@@ -244,11 +243,11 @@
             <div class="video-card">
                 <a href="template_size_matters">
                     <div class="thumbnail">
-                        <img src="assets/images/3-sizematters-unsplash.jpg" alt="Thumbnail 3">
+                        <img src="assets/images/fred.jpeg" alt="Fred">
                     </div>
                     <div class="video-info">
-                        <h3>Does size really matter?</h3>
-                        <p>38.5M views · 2 months ago</p>
+                        <center><h3>Fred - Gaming</h3></center>
+                        <center><p>Peak diamond 💎 on Valorant (top 12%)! Got a lot of jokes about Roblox 🤖 during the project </p></center>
                     </div>
                 </a>
             </div>
@@ -256,78 +255,28 @@
             <div class="video-card">
                 <a href="how_you_became_smarter">
                     <div class="thumbnail">
-                        <img src="assets/images/4-brain-unsplash.jpg" alt="Thumbnail 4">
+                        <img src="assets/images/VivA.jpg" alt="Viva">
                     </div>
                     <div class="video-info">
-                        <h3>How you became smarter</h3>
-                        <p>1M views · 2 months ago</p>
+                        <center><h3>Viva - Pastry</h3></center>
+                        <center><p>Found out she has brain cancer 🧠 and yet managed to make Christmas cookies 🤶🍪 for everyone! 
+                            Click to see </p></center>
                     </div>
                 </a>
             </div>
 
             <div class="video-card">
-                <a href="template_wrapped">
+                <a href="https://www.youtube.com/@resume_moi/?sub_confirmation=1">
                     <div class="thumbnail">
-                        <img src="assets/images/5-YouTube-Wrapped.png" alt="Thumbnail 5">
+                        <img src="assets/images/Yann.jpg" alt="Yann">
                     </div>
                     <div class="video-info">
-                        <h3>YouTube Wrapped [EDU EDITION]</h3>
-                        <p>1.6M views · 3 months ago</p>
+                        <center><h3>Yann - Educational</h3></center>
+                        <center><p>Has a real YouTube channel 📹, providing summary of French litterature pieces 📖. Follow here!</p></center>
                     </div>
                 </a>
             </div>
 
-            <div class="video-card">
-                <a href="template_study_last_minute">
-                    <div class="thumbnail">
-                        <img src="assets/images/6-lastminute-unsplash.jpg" alt="Sablier">
-                    </div>
-                    <div class="video-info">
-                        <h3>Y’all study last minute, and it shows…</h3>
-                        <p>1.2M views · 3 months ago</p>
-                    </div>
-                </a>
-            </div>
-
-            <div class="video-card">
-                <a href="template_control_info">
-                    <div class="thumbnail">
-                        <img src="assets/images/7-DALL_E_puppeteer.png" alt="Puppeteer">
-                    </div>
-                    <div class="video-info">
-                        <h3>Who is controlling the information?</h3>
-                        <p>2.6M views · 3 months ago</p>
-                    </div>
-                </a>
-            </div>
-
-            <div class="video-card">
-                <a href="template_country">
-                    <div class="thumbnail">
-                        <img src="assets/images/8-world-unsplash.jpg" alt="Country map">
-                    </div>
-                    <div class="video-info">
-                    <h3>Which country is the smartest?</h3>
-                    <p>1.7M views · 4 months ago</p>
-                    </div>
-                </a>
-            </div>
-
-        </div>
-    </section>
-
-    <!-- Text Section -->
-    <section class="text">
-        <h2> A little bit about this project </h2>
-        <div class="explore-grid">
-            <div class="explore-card">
-                <p>Learning is an essential cognitive process performed by all animals, originally to adapt and survive, now as a means to gain knowledge, build skills or even shift our attitudes and values. It’s about adding new tools to how we think, feel, and act. For millennia our knowledge was limited to the experience of the people we could directly interact with (aka (irl)[https://www.reddit.com/r/AskOldPeople/comments/eaas63/what_was_life_like_before_the_internet/]). 
-                    The invention of the press (thank you [Gutemberg and ancient Chinese](https://www.history.com/topics/inventions/printing-press)) and the democratization of printed text changed this, by enhancing access giving us access to books and news from everywhere. We then went a step further with the telegraph, and later the telephone, by enabling instantaneous communication through the telegraph and later the telephone. You could now press a few buttons to ask your dad for his [famous pie recipe](https://www.allgrains.net/2012/12/dads-apple-pie.html?m=1) and have it instantly. With this technology, you could reach ([almost](https://en.wikipedia.org/wiki/Nukak)) anyone in the world.
-                    
-                    But what if your father sucked at [writing recipes](https://mikebakesnyc.com/how-to-develop-and-write-a-recipe/) or giving directions? A picture is worth a thousand words, and sometimes you need [24 of them per second](https://en.wikipedia.org/wiki/Frame_rate). For minutes on end. YouTube allows people to share knowledge with you before you even have to ask for it (considered you don’t look before 2012), from [Nobel prize winner’s reaction to his achievement](https://www.youtube.com/watch?v=JhfDyBLRnrM), to a [day in the life of a neurosurgeon](https://www.youtube.com/watch?v=8RXEaAjpt4Q​​) or a [tutorial on how to make sushi with a professional chef](https://www.youtube.com/watch?v=nIoOv6lWYnk). The magic of it also lies in its convenience; you can watch [whenever, wherever](https://www.youtube.com/watch?v=weRHyjj34ZE), at 10 am when you found out your sink is the leaking and need to understand [how to you can fix it](https://www.youtube.com/watch?v=LTsgZo6VkkE) while maintaining pressure below your sink, or at 10 pm when you desperately try to make a that sushi roll hold (seriously, [how do they make it seem so easy?](https://www.kobejones.com.au/why-it-takes-a-decade-of-training-to-be-a-head-sushi-chef/)) 
-                    You get the point, learning is now at the tip of your finger, and we consume tremendous amounts of it. In this project we will attempt to show you the evolution of our learning habits through our new teacher: YouTube.
-                    </p>
-            </div>
         </div>
     </section>
 
