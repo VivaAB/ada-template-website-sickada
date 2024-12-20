@@ -40,17 +40,17 @@ Plottin dislikes-per-view, Entertainment shows a dip in engagement for videos be
     <p>
         > *Figure 3: Histogram representing educational video uploads for a given channel category (Here entertainment) over the years, as well as likes and dislikes per view in percentage. The size of the bubble represents the ammount of views per video on average for the given duration bin*
 
-        In Entertainment, 0–15 minute videos crushed it in 2015–2016 (with a sweet spot at 5–10 minutes) (Figure 3).
-        News & Politics thrived in 2015–2017 with 15–40 minute videos, likely during major coverage events, and saw a spike in likes-per-view.
-        Science & Tech had its big moment in 2018 with a surge in likes-per-view for 25–30 minute videos and massive views for 90–120 minute content.
-        Pets & Animals? Always reliable. Giving a cat medicine is harder than one might think, and vet trips don’t come cheap, so those quick tutorials are pure gold.
+        
 
     </p>
 </div>
 
 
 
-
+In Entertainment, 0–15 minute videos crushed it in 2015–2016 (with a sweet spot at 5–10 minutes) (Figure 3).
+        News & Politics thrived in 2015–2017 with 15–40 minute videos, likely during major coverage events, and saw a spike in likes-per-view.
+        Science & Tech had its big moment in 2018 with a surge in likes-per-view for 25–30 minute videos and massive views for 90–120 minute content.
+        Pets & Animals? Always reliable. Giving a cat medicine is harder than one might think, and vet trips don’t come cheap, so those quick tutorials are pure gold.
 
 
 ![Duration Distribution](assets/plots/Entertainment.png)
@@ -81,6 +81,7 @@ Film & Animation, Science & Tech, and Gaming: These categories thrive on well-ex
 Nonprofits & Activism, People & Blogs: Here, shorter is sweeter—viewers might prefer concise, impactful content.
 
 Duration’s impact is anything but simple, and clearly, YouTube’s an ecosystem of its own.
+
 ---
 ### **So what CAN we say?**
 

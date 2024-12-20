@@ -14,6 +14,7 @@ We analyzed YouTube's history of educational content by focusing on five major t
 
 >*Please note that Google Trend updated their data collection system on 05/08/2017 which can induce some inconsistencies in YouTube search trends (red curves of "user interest").*
 
+---
 
 ### **Case #1: 'Golden Ratio' Wrap**
 ![ML](assets/plots/ML.png)
@@ -22,148 +23,36 @@ Our first case study is related to machine learning and artificial intelligence 
 
 *Fun fact: the channel Udacity posted approximately 1000 videos in February 2015, all more or less related to datascience, machine learning, and excel101, explaining the lonely blue dot at that date.*
 
+---
+
 ### **Case #2: 'Fool's Gold' Wrap**
 ![crypto](assets/plots/crypto.png)
 
-The second case study is related to cryptocurrencies. Content creation remained nearly flat until 2017, and skyrocketed in sync with the Crypto Bubble, comprising the 2017 boom and the 2018 crash. Interestingely, content creators showed remarkable persistence, steadily producing content (blue) despite the fading audience curiosity (red). Overall, the data paints a vivid picture of how cryptocurrency hype and dramatic market events drive a reactive surge in both user interest and content production on YouTube.
+The second case study dives into cryptocurrencies. Content creation remained nearly flat until 2017, and skyrocketed in sync with the Crypto Bubble, comprising the 2017 boom and the 2018 crash. Interestingely, content creators showed remarkable persistence, steadily producing content (blue) despite the fading audience curiosity (red). Overall, the data paints a vivid picture of how cryptocurrency hype and dramatic market events drive a reactive surge in both user interest and content production on YouTube.
+
+---
 
 ### **Case #3: 'Forecast' Wrap**
 ![ebola](assets/plots/ebola.png)
 
-This third case tackles the Ebola virus. Both content creation and searches exhibit a sharp spike during the 2014 outbreak, and decline steeply afterward. Please note that the seasonality effect observed in the bottom left plot is due to this sudden peak. If the population and government showed long-term engagement on the "pandemia" topic, we may have prevented all the 2020 drama (#covid).
-
-
----
-
-## **Visual Insights**
-### **Centered Image**
-![Sales Trends Chart](assets/images/banner.jpeg)
-> *Figure 1: Sales trends across quarters.*
+This third case tackles the Ebola virus. Both content creation and searches exhibit a sharp spike during the 2014 outbreak, and decline steeply afterward. Please note that the seasonality effect observed in the bottom left plot is due to this sudden peak of attention. If governments and the public had shown sustained interest in pandemic preparedness back then, we may have prevented all the 2020 drama... (#covid)
 
 ---
 
-### **Image with Text Alignment**
-#### Image to the Left
-<div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
-    <img src="assets/images/profile.jpeg" alt="Urban Market Performance" width="40%" style="margin-right: 1rem;">
-    <p>
-        **Observation:** *Product A demonstrated remarkable performance in urban markets during the campaign. This suggests a need to further target similar demographics for sustained growth.*
-    </p>
-</div>
+### **Case #4: 'Trouble Maker' Wrap**
+![osama](assets/plots/osama.png)
+
+In the fourth case, we take a look at Jihadism. This case is a bit more chaotic than the others... Overall, while geopolitical and historical events seem to trigger the user's curiosity "on the moment", content creation seem more distributed over time and doesn't really follow public interest (low correlations) or major events. While previous cases highlighted the dataset ability to capture the reactive nature of video creation (in response to momentary spikes in attention), it fails to address broader dynamics. 
 
 ---
 
-#### Image to the Right
-<div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
-    <p style="margin-right: 1rem;">
-        **Insight:** *Website traffic surged after the new campaign launch, highlighting strong audience engagement. Future campaigns can capitalize on this trend to drive conversions.*
-    </p>
-    <img src="assets/images/profile.jpeg" alt="Website Traffic Growth" width="40%">
-</div>
+### **Case #5: 'Ladies First' Wrap**
+![feminism](assets/plots/feminism.png)
+
+And finally, feminism, because as always, women somehow end up at the back of the line. We observe that user interest in feminism-related educational content exhibits steady fluctuations with occasional peaks over time. Content creation, in contrast, shows a steady exponential trend. In both case, there is a clear seasonal effect peaking in March (likely linked to the international women's day on March 8th). Surprisingly, the #MeToo movement after the Weinstein scandal did not generate an immediate increase in content volume, but as in the previous case, there might be a broader impact on the long run.
 
 ---
 
-## **Deep Dive Analysis**
-Break down each key finding with deeper analysis, supported by visuals and data tables.
+## **Conclusion**
+This YouTube wrap reveals how the platform mirrors societal trends, with content creation often reacting to spikes in public interest driven by major events. While some topics, like machine learning and feminism, sustain steady creator engagement, others, like Ebola, may show bursts of attention that quickly fade.
 
-### **Sales Analysis**
-- **Observation:** The highest sales occurred in **July**, driven by a summer promotion.
-- **Details:** The promotion contributed to a **50% growth rate** in sales.
-
-| Month      | Sales ($)   | Growth Rate |
-|------------|-------------|-------------|
-| June       | 10,000      | +5%         |
-| July       | 15,000      | +50%        |
-| August     | 12,000      | -20%        |
-
-> *July's promotion was highly successful, but August showed a decline, indicating the need for follow-up strategies.*
-
----
-
-## **Interactive Plotly Visualization**
-Below is an interactive Plotly chart embedded directly into this Markdown file using HTML:
-
-<div>
-  <iframe src="assets/plot.html" width="100%" height="500" frameborder="0"></iframe>
-  <p style="text-align: center;">Figure 1: Dummy Plotly Chart</p>
-</div>
-
-### **Plotly Chart with Text on the Right**
-<div style="display: flex; align-items: center; margin-bottom: 2rem;">
-  <!-- Plot -->
-  <div style="flex: 1; margin-right: 1rem;">
-    <iframe src="assets/plot.html" width="100%" height="500" frameborder="0"></iframe>
-  </div>
-  <!-- Text -->
-  <div style="flex: 1;">
-    <h3>Insights</h3>
-    <p>
-      This Plotly chart highlights the performance of various categories over time. Use it to analyze trends and identify key areas for improvement or further study.
-    </p>
-    <p>
-      The data indicates significant growth in Q3, with certain categories outperforming others due to targeted strategies.
-    </p>
-  </div>
-</div>
-
----
-
-### **Plotly Chart with Text on the Left**
-<div style="display: flex; align-items: center; margin-bottom: 2rem;">
-  <!-- Text -->
-  <div style="flex: 1; margin-right: 1rem;">
-    <h3>Analysis</h3>
-    <p>
-      This visualization compares multiple metrics across different months. It reveals seasonal trends and helps in understanding variations in performance across quarters.
-    </p>
-    <p>
-      The results emphasize the importance of summer promotions and their impact on overall sales growth.
-    </p>
-  </div>
-  <!-- Plot -->
-  <div style="flex: 1;">
-    <iframe src="assets/plot.html" width="100%" height="500" frameborder="0"></iframe>
-  </div>
-</div>
-
----
-
-## **Embedded Videos**
-You can embed videos directly into your report using HTML. For example:
-
-### **Marketing Campaign Video**
-<div style="text-align: center;">
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/tiEPzEp2T4A"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen
-  ></iframe>
-</div>
-<p style="text-align: center;">Figure 3: Overview of our marketing campaign strategy.</p>
-
----
-
-## **Conclusions**
-> *In summary, our analysis shows that targeted promotions in urban areas drive significant sales growth. However, maintaining momentum after campaigns remains a challenge.*
-
----
-
-## **Next Steps and Recommendations**
-### **Actionable Recommendations:**
-1. Launch a **follow-up campaign** in **August** to sustain sales momentum.
-2. Focus on urban markets for **Product A**, as they demonstrate the highest potential.
-3. Leverage website analytics to identify trends and optimize future marketing campaigns.
-
----
-
-## **Additional Notes**
-- **Dataset:** [View Dataset](https://github.com/epfl-dlab/YouNiverse)
-- **Tools Used:** *Python, pandas, Matplotlib*
-- **References:** Internal sales records and web traffic data.
-
----
-
-*Thank you for reading! Feel free to reach out for further information or collaboration opportunities.*
