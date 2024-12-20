@@ -18,7 +18,7 @@ We see a shift from academic videos to edutainment. Viewers seem to prefer conte
 **Youtube Wrapped [EDU EDITION]**
 The YouTube wrap reveals how the platform mirrors societal trends, with content creation often reacting to spikes in public interest driven by major events. While some topics, like machine learning and feminism, sustain steady creator engagement, others, like Ebola, may show bursts of attention that quickly fade.
 
-**Y'all study last minute, and it shows...***
+**Y'all study last minute, and it shows...**
 There is some evidence of seasonal trends in the upload and consumption of educational content, particularly around the school year for academic videos, the patterns are not consistent across all years or content types. For famous channels making academic content, we observe a typical pattern of peaks at during the school year and valleys during the summer break, even of the creator has not uploaded any videos during that period.
 
 **Who is controlling the information ?**
