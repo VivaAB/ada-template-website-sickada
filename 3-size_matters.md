@@ -36,12 +36,8 @@ Plottin dislikes-per-view, Entertainment shows a dip in engagement for videos be
 
 
 <div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
-    <img src="assets/plots/Entertainment_2.png" alt="Urban Market Performance" width="60%" style="margin-right: 1rem;">
+    <img src="assets/plots/Entertainment_2.png" alt="Urban Market Performance" width="80%" style="margin-right: 1rem;">
     <p>
-        
-
-        
-
     </p>
 </div>
 > *Figure 3: Histogram representing educational video uploads for a given channel category (Here entertainment) over the years, as well as likes and dislikes per view in percentage. The size of the bubble represents the ammount of views per video on average for the given duration bin*
