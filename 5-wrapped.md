@@ -5,7 +5,7 @@ banner_header: "YouTube Wrapped [EDU EDITION]..."
 subtitle: "... or are there spikes in educational content upload and consumption over the years?"
 ---
 
-Why do some topics ignite bursts of interest and fade away immediatly, while others foster sustained engagement and content creation? Does YouTube, through its educational content, serve as a reactive platform, mirroring societal buzz, or does it have the power to shape and sustain public discourse over time? From cryptocurrency booms to feminist movements, we aim to uncover patterns of attention, reaction, and even neglect. 
+Why do some topics spark brief surges of interest, while others drive ongoing engagement and content creation? Does YouTube’s educational content simply reflect societal trends, or can it shape and sustain public conversations? From crypto booms to feminist movements, we explore the patterns of attention, reaction, and neglect.
 
 ## **Methodology - The Best Wrap Recipe**
 Inspired by the iconics YouTube Rewind and Spotify Wrapped, our "YouTube Wrapped" unpacks an entire era of YouTube history, from 2008 to 2019. Instead of highlighting viral moments from a specific year, this wrap dives into the platform's evolution across key cultural and societal events, with a close look at public interest and content creation. 
