@@ -51,4 +51,4 @@ Fitting an OLS to the data shows that there is a statistically significant relat
 We see that following this model, there is a 1.85% decrease of academic videos per year and a 1.74% increse of edutainement videos per year.
 
 ## **What did we learn**
-We learned that YouTube's educational content has changed a lot over the years. While the number of videos and channels has grown, their share of total content has decreased as the platform expanded into other. We also see a shift from academic videos to edutainment. Viewers seem to prefer content that is easier to understand, fun, and engaging. This shows how YouTube has adapted to meet changing audience preferences, making education more accessible and entertaining.
+We learned that YouTube's educational content has changed a lot over the years. While the number of videos and channels has grown, their share of total content has decreased. We also see a shift from academic videos to edutainment. Viewers seem to prefer content that is easier to understand, fun, and engaging. This shows how YouTube has adapted to meet changing audience preferences, making education more accessible and entertaining.
