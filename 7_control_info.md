@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Sickada"
-banner_header: "How You Became Smarter ...."
-subtitle: ".... or how has the volume of educational content changed over time"
+banner_header: "Who is controlling the information? ...."
+subtitle: ".... How does the information spread across categories in educational content?"
 ---
 
 ## **Introduction**
@@ -40,7 +40,7 @@ A 2 months aggregation level was selected as it features high Signal-to-Noise Ra
 
 ### **Dynamic Time Warping**
 
-![Sales Trends Chart](assets/plots/DTW.png)
+![DTW](assets/plots/DTW.png)
 
 Dynamic Time Warping (DTW) enables the alignment of sequences based on their similarity. By analyzing content creation patterns within a defined time frame, we can gain deeper insights into how external influences in one category contribute to the development of trends in another [1]. This helps uncover patterns of influence and adaptation over time.
 
@@ -77,7 +77,5 @@ The low DTW distances between "Education" and "Science & Technology" suggest a s
 - [3] Krishnamurthy, V., & Duan, Y. (2017). Dependence Structure Analysis Of Meta-level Metrics in YouTube Videos: A Vine Copula Approach. arXiv:1712.10232 [cs.SI]. https://doi.org/10.48550/arXiv.1712.10232
 
 ---
-
-*Thank you for reading! Feel free to reach out for further information or collaboration opportunities.*
 
 (1): The peak in content creation for the "Education" category in February 2015 can be attributed to a single channel that uploaded numerous Excel tutorials. These videos were likely transferred from another channel and tagged with "machine learning" or "artificial intelligence" in their descriptions. This raises concerns about the accuracy of the classification made by the authors.
