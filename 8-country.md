@@ -14,6 +14,13 @@ First of all let us explore where our teachers come from:
   <iframe src="assets/plots/country_channel.html" width="100%" height="500px" style="border:none;"></iframe>
 </div>
 
+> Figure 1: Channels distribution over the globe
+
+We see straight away that English speaking countries represent the majority of the Youtube channels of our dataset, followed by countries that are known to have good English skills (Central Europe and Nordics or South Africa). We see with surprise that the French actually know how to speak english???. Take the time to explore the map, you might notice that Antartida actually has educational youtubers!
+
+## Video Categories are country dependent
+
+Next up we take a closer look at the proportion of video categories in a given country: 
 
 <div>
   <center>
@@ -21,11 +28,24 @@ First of all let us explore where our teachers come from:
   </center>
 </div>
 
+Differences might be more apparent if we split this plot as so : 
+
+
+
+
+
+## Which countries receive the most love ❤️
+
+In a school there are always cool teachers and teachers no one likes. We asked ourselves, which countries received the most likes and dislikes. For that we plot likes per video as a metric of appreciation and dislikes per video as a metric of disapproval. We represent the median number of views for each country witht the size of the bubble.
+
 <div>
   <center>
     <iframe src="assets/plots/country_likes_dislikes.html" width="100%" height="500px" style="border:none;"></iframe>
   </center>
 </div>
+
+In the lower right quadrant we have the most appreciated countries in terms of likes per video. We see that there are no polarizing teachers at the country level, generating lots of likes and dislikes at the same time. 
+
 
 
 
