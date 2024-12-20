@@ -1,12 +1,12 @@
 ---
 layout: default
 title: "Sickada"
-banner_header: "How You Became Smarter ...."
-subtitle: ".... or how has the volume of educational content changed over time"
+banner_header: "The learning personalities on YouTube ...."
+subtitle: ".... or What does the dataset look like?"
 ---
 
 ## **Introduction**
-> A brief introduction explaining the purpose of the analysis and the key questions being explored. Keep it simple, clear, and engaging.
+> 
 
 **Example:**
 *Have you ever wondered why sales spike during certain months? This report uncovers trends, patterns, and insights from our latest dataset.*
