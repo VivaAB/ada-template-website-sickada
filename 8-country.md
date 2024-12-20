@@ -2,7 +2,7 @@
 layout: default
 title: "Sickada"
 banner_header: "Which country is the smartest...."
-subtitle: ".... or how How does learning content evolve based on the location of creators?"
+subtitle: ".... or How does learning content is modulated by the location of creators?"
 ---
 
 ## **A little bit of geography first**
@@ -17,13 +17,13 @@ First of all let us explore where our teachers come from:
 
 <div>
   <center>
-    <iframe src="assets/plots/country_sunburst.html" width="60%" height="500px" style="border:none;"></iframe>
+    <iframe src="assets/plots/country_sunburst.html" width="100%" height="500px" style="border:none;"></iframe>
   </center>
 </div>
 
 <div>
   <center>
-    <iframe src="assets/plots/country_likes_dislikes.html" width="60%" height="500px" style="border:none;"></iframe>
+    <iframe src="assets/plots/country_likes_dislikes.html" width="100%" height="500px" style="border:none;"></iframe>
   </center>
 </div>
 
