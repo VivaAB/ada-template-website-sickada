@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Sickada"
-banner_header: "How You Became Smarter ...."
-subtitle: ".... or how has the volume of educational content changed over time"
+banner_header: "Why you should drop out, General overview"
+subtitle: ""
 ---
 
 You made it through all of the different axes ! This was a lot of information, so let's summarize everything.
