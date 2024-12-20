@@ -10,12 +10,12 @@ In the last 15 years, YouTube has emerged as a powerhouse for educational conten
 ## **Educational videos and channels over the years**
 To begin with, let's look at the volume of videos and channels categorized as Educational in the dataset.
 <div>
-  <iframe src="assets/educational_videos_number_proportion_per_year.html" width="100%" height="500" frameborder="0"></iframe>
+  <iframe src="assets/plots/educational_videos_number_proportion_per_year.html" width="100%" height="500" frameborder="0"></iframe>
   <p style="text-align: center;">Figure 1: Dummy Plotly Chart</p>
 </div>
 The data reveals an intriguing contrast: while the number of educational videos uploaded has grown exponentially, their proportion relative to all uploaded content has steadily declined since peaking in the early 2010s. This downward trend in proportion began after 2010, even as the absolute numbers continued to rise, indicating that the overall expansion of content categories on YouTube has far outpaced the growth of educational content. It is important to note that the years 2005, 2006, and 2007 shows a very little number of videos that could affect the statistics. This could be the reason why we see a growing trend in the proportion of videos at the earliest years.What about the number of educational channels ?
 <div>
-  <iframe src="assets/educational_channel_number_proportion_per_year.html" width="100%" height="500" frameborder="0"></iframe>
+  <iframe src="assets/plots/educational_channel_number_proportion_per_year.html" width="100%" height="500" frameborder="0"></iframe>
   <p style="text-align: center;">Figure 1: Dummy Plotly Chart</p>
 </div>
 This plot highlight a reccuring trend: while the number of educational channels created per year is growing, the proportion of educational channels is decreasing. A particularly striking observation is the sharp decline in both the absolute number and the proportion of educational channels created in 2018, marking a challenging year for the creation of educational content. This could suggests a significant shift in the platform's dynamics or external factors influencing creators’ decisions during this year.
@@ -28,7 +28,7 @@ As said earlier, these are the videos and channels categorized as Educational in
 ## **Academic VS Edutainement**
 For this reason, we decided re-classify the videos using BART, a natural language processing model capable of performing sentiment analysis. We asked the model to classify a sample of 50000 "Educational" videos into 3 categories: 'academic', 'edutainement or science popularization' and 'hobby'.
 <div>
-  <iframe src="assets/proportion_video_type_per_year.html" width="100%" height="500" frameborder="0"></iframe>
+  <iframe src="assets/plots/proportion_video_type_per_year.html" width="100%" height="500" frameborder="0"></iframe>
   <p style="text-align: center;">Figure 1: Dummy Plotly Chart</p>
 </div>
 
