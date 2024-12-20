@@ -10,21 +10,11 @@ Why do some topics ignite bursts of interest and fade away immediatly, while oth
 ## **Methodology - The Best Wrap Recipe**
 Inspired by the iconics YouTube Rewind and Spotify Wrapped, our "YouTube Wrapped" unpacks an entire era of YouTube history, from 2008 to 2019. Instead of highlighting viral moments from a specific year, this wrap dives into the platform's evolution across key cultural and societal events, with a close look at public interest and content creation. 
 
-We analyzed YouTube's history of educational content by focusing on five major topics: machine learning, cryptocurrency, Ebola disease, jihadism, and the feminist movement, exploring the intersection of content creation and audience interest. Through simple keyword searches, we focus our attention on videos tied to these subjects. In each case, we compare the volume of videos (blue) to the YouTube search trends from Google Trends (red). Beyond these time-series comparisons, we analyze global trends and seasonal fluctuations in content creation and  while probing the correlations between user interest and content creation.
+We analyzed YouTube's history of educational content by focusing on five major topics: machine learning, cryptocurrency, Ebola disease, jihadism, and the feminist movement, exploring the intersection of content creation and audience interest. Through simple keyword searches, we focus our attention on videos tied to these subjects. In each case, we compare the volume of videos (blue) to the YouTube search trends from Google Trends (red). Beyond these time-series comparisons, we analyze global trends and seasonal fluctuations in video production, as well as correlations between user interest and content creation.
 
+### **Case #1: Golden ratio WRAP**
+![ML](assets/images/ML.png)
 
-**Example:**
-*Have you ever wondered why sales spike during certain months? This report uncovers trends, patterns, and insights from our latest dataset.*
-
----
-
-## **Key Findings**
-### **Top Insights:**
-- **Sales Growth:** Sales increased by **25%** in Q3 compared to Q2.
-- **Product Performance:** **Product A** outperformed others in urban markets.
-- **Web Traffic:** Website traffic surged following the new marketing campaign.
-
-> Use **bold text** for key points and *italics* for clarifications.
 
 ---
 
