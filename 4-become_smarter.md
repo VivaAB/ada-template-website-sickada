@@ -5,7 +5,7 @@ banner_header: "How You Became Smarter ...."
 subtitle: ".... or how has the volume of educational content changed over time"
 ---
 
-In the last 15 years, YouTube has emerged as a powerhouse for educational content, revolutionizing how knowledge is shared and consumed globally. From tutorials to in-depth lectures, the platform has become a go-to resource for learning. Let’s be honest—you’ve probably found yourself spiraling into hours of videos about what would happen if all the nukes in the world exploded at once or binge-watching an entire playlist of "How To" tutorials. But how did the volume of educational content on Youtube evolved over time ? We will explore the trends in the number of educational videos uploaded each year alongside the growth in the number of educational channels created annually.
+In the last 15 years, YouTube has emerged as a powerhouse for educational content, revolutionizing how knowledge is shared and consumed globally. From tutorials to in-depth lectures, the platform has become a go-to resource for learning. Let’s be honest, you’ve probably found yourself spiraling into hours of videos about what would happen if all the nukes in the world exploded at once or binge-watching an entire playlist of "How To" tutorials. But how did the volume of educational content on Youtube evolved over time ? We will explore the trends in the number of educational videos uploaded each year alongside the growth in the number of educational channels created annually.
 
 ## **Educational videos over the years**
 To begin with, let's look at the volume of videos and channels categorized as Educational in the dataset.
@@ -34,7 +34,7 @@ This plot highlight a reccuring trend: while the number of educational channels 
 ## **Academic VS Edutainement**
 As said earlier, these are the videos and channels categorized as Educational in the dataset, based on self-definition by the content creator. The term "Educational" can encompass a wide range of interpretations, including content such as children's songs, or tutorials on various subjects which may not align with the more focused educational topics we are specifically interested in analyzing.
 
-For this reason, we decided re-classify the videos using BART, a natural language processing model capable of performing sentiment analysis. We asked the model to classify a sample of 50000 "Educational" videos into 3 categories: 'academic', 'edutainement or science popularization' and 'hobby'.
+For this reason, we decided re-classify the videos using BART, a natural language processing model capable of performing sentiment analysis. We used a sample of 50000 "Educational" videos into 3 categories: 'academic', 'edutainement or science popularization' and 'hobby'.
 <div>
   <iframe src="assets/plots/proportion_video_type_per_year.html" width="100%" height="500" frameborder="0"></iframe>
 </div>
