@@ -11,7 +11,6 @@ In the last 15 years, YouTube has emerged as a powerhouse for educational conten
 To begin with, let's look at the volume of videos and channels categorized as Educational in the dataset.
 <div>
   <iframe src="assets/plots/educational_videos_number_proportion_per_year.html" width="100%" height="500" frameborder="0"></iframe>
-  <p style="text-align: center;">Figure 1: Dummy Plotly Chart</p>
 </div>
 The data reveals an intriguing contrast: while the number of educational videos uploaded has grown exponentially, their proportion relative to all uploaded content has steadily declined since peaking in the early 2010s. This downward trend in proportion began after 2010, even as the absolute numbers continued to rise, indicating that the overall expansion of content categories on YouTube has far outpaced the growth of educational content. It is important to note that the years 2005, 2006, and 2007 shows a very little number of videos that could affect the statistics. This could be the reason why we see a growing trend in the proportion of videos at the earliest years.
 
@@ -38,7 +37,6 @@ As said earlier, these are the videos and channels categorized as Educational in
 For this reason, we decided re-classify the videos using BART, a natural language processing model capable of performing sentiment analysis. We asked the model to classify a sample of 50000 "Educational" videos into 3 categories: 'academic', 'edutainement or science popularization' and 'hobby'.
 <div>
   <iframe src="assets/plots/proportion_video_type_per_year.html" width="100%" height="500" frameborder="0"></iframe>
-  <p style="text-align: center;">Figure 1: Dummy Plotly Chart</p>
 </div>
 
 The data reveals a clear shift in the type of educational content on YouTube, with a decline in academic videos and a rise in edutainment content over time. Between 2008 and 2013, there is a noticeable increase in edutainment videos, signaling its growing popularity during the early years of YouTube. This early rise in popularity could reflect the novelty of the platform and the unmet demand for new and accessible educational content. We see that academic videos became less and less popular reaching a plateau at around 2011. We could argue that youtube introduced a new type of educational content that is easier to consume and fits YouTube’s informal and entertainment-focused culture better. The transition from academic to edutainment content reflects changing consumer preferences. Viewers on YouTube may prefer content that simplifies complex topics, incorporates storytelling, and uses visuals and humor to maintain engagement.
