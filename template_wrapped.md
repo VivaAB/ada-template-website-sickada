@@ -7,8 +7,11 @@ subtitle: "... or are there spikes in educational content upload and consumption
 
 Why do some topics ignite bursts of interest and fade away immediatly, while others foster sustained engagement and content creation? Does YouTube, through its educational content, serve as a reactive platform, mirroring societal buzz, or does it have the power to shape and sustain public discourse over time? From cryptocurrency booms to feminist movements, we aim to uncover patterns of attention, reaction, and even neglect. 
 
-## **Introduction**
-> A brief introduction explaining the purpose of the analysis and the key questions being explored. Keep it simple, clear, and engaging.
+## **Methodology - The Best Wrap Recipe**
+Inspired by the iconics YouTube Rewind and Spotify Wrapped, our "YouTube Wrapped" unpacks an entire era of YouTube history, from 2008 to 2019. Instead of highlighting viral moments from a specific year, this wrap dives into the platform's evolution across key cultural and societal events, with a close look at public interest and content creation. 
+
+We analyzed YouTube's history of educational content by focusing on five major topics: machine learning, cryptocurrency, Ebola disease, jihadism, and the feminist movement, exploring the intersection of content creation and audience interest. Through simple keyword searches, we focus our attention on videos tied to these subjects. In each case, we compare the volume of videos (blue) to the YouTube search trends from Google Trends (red). Beyond these time-series comparisons, we analyze global trends and seasonal fluctuations in content creation and  while probing the correlations between user interest and content creation.
+
 
 **Example:**
 *Have you ever wondered why sales spike during certain months? This report uncovers trends, patterns, and insights from our latest dataset.*
